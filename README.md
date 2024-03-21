@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="200" src="https://avatars.githubusercontent.com/u/106131063?s=400&u=f02d464d1e747aedb120dc98cff383332a80181e&v=4">
-</p>
+
 
 <h1> Hola  < Bienvenido/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
