@@ -14,7 +14,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-🎓 Actualmente estoy en el quinto ciclo de la Tecnicatura.
+🎓 Actualmente estoy en el sexto ciclo de la Tecnicatura.
 
 🌱 Estoy aprendiendo TypeScript, NodeJs y React.
 
