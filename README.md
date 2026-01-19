@@ -1,53 +1,73 @@
+<h1>Hola, ¡Bienvenido! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
+<p align="center"></p>
 
-<h1> Hola  < Bienvenido/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+[![Github](https://img.shields.io/github/followers/PalaciosLuis?label=Follow&style=social)](https://github.com/PalaciosLuis)
 
-
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/PalaciosLuis)
-
-<div size='20px'> Mi nombre es Luis Palacios y soy un desarrollador Full Stack de Perú  :smile: 
+<div size="20px">
+  Mi nombre es <b>Luis Palacios</b> y soy <b>Administrador de Sistemas Linux</b> de Perú 🇵🇪
 </div>
 
-<h2> Sobre mí <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h2>Sobre mí 
+  <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="90px">
+</h2>
 
-🎓 Actualmente estoy en el sexto ciclo de la Tecnicatura.
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-🌱 Estoy aprendiendo TypeScript, NodeJs y React.
+🖥️ Administrador de sistemas orientado a infraestructura, monitoreo y virtualización en entornos Linux.
 
-👯 Busco colaborar en proyectos.
+🔧 Experiencia implementando y administrando servidores, servicios y herramientas de monitoreo como **Zabbix**, **Wazuh** y **Uptime Kuma**.
 
-💬 Puedes preguntarme sobre Sql, Java, C#, JavaScript.
+☁️ Gestión de entornos virtualizados con **Proxmox VE** y **VirtualBox**.
 
-⚡ Dato curioso: Me encantan jugar fútbol.
+🔐 Implementación de servicios de red, control de acceso y autenticación con **Samba 4 (AD DC)**.
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+📊 Administración básica de bases de datos (**SQL Server**, **SQLite**) y soporte a aplicaciones en producción.
+
+🌱 Actualmente reforzando conocimientos en **Docker**, **automatización con Bash** y buenas prácticas de administración de sistemas.
+
+⚽ Dato curioso: me gusta jugar fútbol en mis tiempos libres.
+
+---
+
+<h2>Skills 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
+</h2>
+
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,astro,java,css,js,tailwind,github,mysql,npm,nodejs,vscode,react" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,debian,arch,sqlite,mysql,vscode" />
   </a>
 </p>
 
+<p>
+  🔹 Monitoreo: Zabbix, Wazuh, Uptime Kuma<br>
+  🔹 Virtualización: Proxmox VE, VirtualBox<br>
+  🔹 Servicios: SSH, systemd, Samba 4<br>
+  🔹 Automatización: Bash, cron
+</p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+---
+
+<h2>Conecta conmigo 
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px">
+</h2>
+
 <a href="https://github.com/PalaciosLuis">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/luis-palacios-sernaque">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 
- <a href="https://portfolio-minimalista-json.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=htmx" />
-  </a>
-  
-<br>
-<br>
-  <br>
-  
+<a href="https://www.linkedin.com/in/luis-palacios-sernaque">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
+<a href="https://portfolio-minimalista-json.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=htmx" />
+</a>
 
------
+---
+
