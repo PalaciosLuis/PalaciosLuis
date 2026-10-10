@@ -2,7 +2,7 @@
 
 **Backend & Full-Stack Developer** — Python · Django · Multi-tenant SaaS · APIs & Integrations
 
-🔗 **[Portfolio](https://portfoliocv-steel.vercel.app/)** · 🌐 [Leer en español](github-README.es.md)
+🔗 **[Portfolio](https://portfoliocv-steel.vercel.app/)** · 🌐 [Leer en español](github-README-ES.md)
 
 ---
 
