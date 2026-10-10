@@ -1,73 +1,52 @@
-<h1>Hola, ¡Bienvenido! 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
+# Hi, I'm Luis Palacios 👋
 
-<p align="center"></p>
-
-[![Github](https://img.shields.io/github/followers/PalaciosLuis?label=Follow&style=social)](https://github.com/PalaciosLuis)
-
-<div size="20px">
-  Mi nombre es <b>Luis Palacios</b> y soy <b>Administrador de Sistemas Linux</b> de Perú 🇵🇪
-</div>
+**Backend & Full-Stack Developer** — Python · Django · Multi-tenant SaaS · APIs & Integrations
 
 ---
 
-<h2>Sobre mí 
-  <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="90px">
-</h2>
+I build and maintain backend systems: APIs, business logic, usage metering and usage-based billing, integrations with external services, and automated processes. I also work on the frontend with Vue 3, so I can take a feature end to end.
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-🖥️ Administrador de sistemas orientado a infraestructura, monitoreo y virtualización en entornos Linux.
-
-🔧 Experiencia implementando y administrando servidores, servicios y herramientas de monitoreo como **Zabbix**, **Wazuh** y **Uptime Kuma**.
-
-☁️ Gestión de entornos virtualizados con **Proxmox VE** y **VirtualBox**.
-
-🔐 Implementación de servicios de red, control de acceso y autenticación con **Samba 4 (AD DC)**.
-
-📊 Administración básica de bases de datos (**SQL Server**, **SQLite**) y soporte a aplicaciones en producción.
-
-🌱 Actualmente reforzando conocimientos en **Docker**, **automatización con Bash** y buenas prácticas de administración de sistemas.
-
-⚽ Dato curioso: me gusta jugar fútbol en mis tiempos libres.
+Most of my day-to-day work lives in private repositories, so here you'll find side projects, university work, and things I build to learn.
 
 ---
 
-<h2>Skills 
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
-</h2>
+## What I focus on
 
-<p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,debian,arch,sqlite,mysql,vscode" />
-  </a>
-</p>
+- **Backend** — Python and Django, REST APIs, PostgreSQL, WebSockets, scheduled jobs
+- **Multi-tenant SaaS** — per-customer data isolation, permissions, credential lifecycles
+- **APIs & integrations** — API versioning, webhooks, MCP, third-party services
+- **Metering & billing** — usage limits per plan, overage control, usage-based billing
+- **Frontend** — Vue 3, JavaScript
 
-<p>
-  🔹 Monitoreo: Zabbix, Wazuh, Uptime Kuma<br>
-  🔹 Virtualización: Proxmox VE, VirtualBox<br>
-  🔹 Servicios: SSH, systemd, Samba 4<br>
-  🔹 Automatización: Bash, cron
-</p>
+## Beyond backend: infrastructure & security
 
----
+I come from the systems side, and that still shapes how I write code: I think about access, backups, and what happens when something fails. I administer Linux servers and hold the **ISO 27001 Foundation** certification.
 
-<h2>Conecta conmigo 
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80px">
-</h2>
+- **Monitoring & security:** Zabbix · Wazuh · Uptime Kuma
+- **Virtualization:** Proxmox VE · VirtualBox
+- **Network services & identity:** SSH · systemd · Samba 4 (AD DC)
+- **Automation:** Bash · cron
 
-<a href="https://github.com/PalaciosLuis">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+## Tech I work with
 
-<a href="https://www.linkedin.com/in/luis-palacios-sernaque">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://portfolio-minimalista-json.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=htmx" />
-</a>
+| Area | Technologies |
+|---|---|
+| **Languages** | Python · JavaScript · Java · Bash · SQL |
+| **Backend** | Django · REST APIs · WebSockets · Node.js |
+| **Frontend** | Vue 3 · Astro · Tailwind CSS · Ant Design Vue · HTML/CSS |
+| **Databases** | PostgreSQL · MySQL · SQL Server · SQLite |
+| **Infrastructure** | Linux (Debian) · Docker · Git · Active Directory · Proxmox VE |
+| **Security** | ISO 27001 · vulnerability management · monitoring |
 
 ---
 
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luis--palacios--sernaque-0b2a4a?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-palacios-sernaque)
+[![Email](https://img.shields.io/badge/Email-924333523javier%40gmail.com-0b2a4a?style=flat&logo=gmail)](mailto:924333523javier@gmail.com)
+
+📍 Peru · Open to remote backend and full-stack opportunities
+
+---
+
+<sub>Fuera del trabajo: fútbol y construir cosas para aprender.</sub>
