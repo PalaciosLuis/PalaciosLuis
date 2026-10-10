@@ -2,7 +2,7 @@
 
 **Backend & Full-Stack Developer** — Python · Django · Multi-tenant SaaS · APIs & Integrations
 
-🌐 [Leer en español](README.es.md)
+🔗 **[Portfolio](https://portfoliocv-steel.vercel.app/)** · 🌐 [Leer en español](README.es.md)
 
 ---
 
@@ -44,6 +44,7 @@ I come from the systems side, and that still shapes how I write code: I think ab
 
 ## Connect with me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfoliocv--steel.vercel.app-17a2b8?style=flat&logo=vercel)](https://portfoliocv-steel.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luis--palacios--sernaque-0b2a4a?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-palacios-sernaque)
 [![Email](https://img.shields.io/badge/Email-palaciossernaqueluisjavier%40gmail.com-0b2a4a?style=flat&logo=gmail)](mailto:palaciossernaqueluisjavier@gmail.com)
 
