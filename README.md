@@ -2,6 +2,8 @@
 
 **Backend & Full-Stack Developer** — Python · Django · Multi-tenant SaaS · APIs & Integrations
 
+🌐 [Leer en español](README.es.md)
+
 ---
 
 I build and maintain backend systems: APIs, business logic, usage metering and usage-based billing, integrations with external services, and automated processes. I also work on the frontend with Vue 3, so I can take a feature end to end.
@@ -43,7 +45,7 @@ I come from the systems side, and that still shapes how I write code: I think ab
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luis--palacios--sernaque-0b2a4a?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-palacios-sernaque)
-[![Email](https://img.shields.io/badge/Email-924333523javier%40gmail.com-0b2a4a?style=flat&logo=gmail)](mailto:924333523javier@gmail.com)
+[![Email](https://img.shields.io/badge/Email-palaciossernaqueluisjavier%40gmail.com-0b2a4a?style=flat&logo=gmail)](mailto:palaciossernaqueluisjavier@gmail.com)
 
 📍 Peru · Open to remote backend and full-stack opportunities
 
